@@ -17,7 +17,11 @@
 3.微信公众号-微信搜索“奇绩创坛”
 
 4.[今日头条](https://profile.zjurl.cn/rogue/ugc/profile/?version_code=900&version_name=90000&user_id=106200897220&media_id=1616551745267719&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article&share_token=0042b454-bb8f-45e1-b3c8-d58f9fb77e53&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_android&utm_campaign=client_share)
+
 5.[小红书](https://www.xiaohongshu.com/user/profile/624560f5000000001000ffab?xhsshare=CopyLink&appuid=5b1b4a7411be102b86afc268&apptime=1666112867)
+
 6.[即刻](https://okjk.co/ebfWqC)
+
 7.微博
+
 8.[知乎](https://www.zhihu.com/people/yczhong-guo)
