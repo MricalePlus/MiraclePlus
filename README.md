@@ -11,8 +11,11 @@
 
 ## 你可以从哪里看到奇绩
 1.[奇绩官网](https://www.miracleplus.com/)
+
 2.[奇绩创业社区内容精选](https://apply.miracleplus.com/high_quality_content?s=PRteam&source_customized=GitHub)
+
 3.微信公众号-微信搜索“奇绩创坛”
+
 4.[今日头条](https://profile.zjurl.cn/rogue/ugc/profile/?version_code=900&version_name=90000&user_id=106200897220&media_id=1616551745267719&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article&share_token=0042b454-bb8f-45e1-b3c8-d58f9fb77e53&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_android&utm_campaign=client_share)
 5.[小红书](https://www.xiaohongshu.com/user/profile/624560f5000000001000ffab?xhsshare=CopyLink&appuid=5b1b4a7411be102b86afc268&apptime=1666112867)
 6.[即刻](https://okjk.co/ebfWqC)
